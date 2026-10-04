@@ -5,6 +5,8 @@ Making a list for links and tools that maybe useful
 
 **YTBT** - Yet to be tested for more... (YTBT is used when I am unsure of it's capability)
 
+ **Note : I F#*king hate sponsorships so you don't find that here.**
+
 # **Opensource (taggging)**
 
 1) https://nosignups.net/  (No signups tool library)
@@ -24,5 +26,9 @@ https://zsky.ai/ (Google Login required / 720 P 7s / No Watermark video but ends
 7) https://vibes.ai/ (VPN with limited regions / Meta login required / Free & unlimited / Video & Image / Idk this doesn't work for me anymore) [YTBT]
 
 
+==========================================================================================
 
+# **AI Clipping** (Working when I was testing) (Free)
+
+1) https://www.choppr.pro/ (Fast / Login required / 150 creds bonus / No Watermark / with Subs )
 
