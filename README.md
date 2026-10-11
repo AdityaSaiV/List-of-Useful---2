@@ -14,6 +14,7 @@ Making a list for links and tools that maybe useful
 3) https://tokenin.my.id/gratis (APIs Free Models)
 4) https://apivault.dev/ (ALL Free API access)
 5) https://getartcraft.com/ (Adobe OS ?) [YTBT]
+6) https://github.com/Contrary7/SteamDaddy-Backup (Some steam tool ? Steamtools.net Alternative ?) [YTBT] 
 
 ==========================================================================================
 
@@ -35,4 +36,12 @@ https://zsky.ai/ (Google Login required / 720 P 7s / No Watermark video but ends
 
 1) https://www.choppr.pro/ (Fast / Login required / 150 creds bonus / No Watermark / with Subs )
 2) https://www.withmaestroai.com/ (software install / Fully Local and Opensource)
+3) https://theharisai.com/omnitube/#requirements (software install / Fully Local and Opensource / 8gb VRAM) [https://theharisai.com/#products -> Creator Products]
+4) Clipping Opensource - Download Required - [Link](https://github.com/nittinbhagaaat/shorts?fbclid=PAT01DUAUsGPJleHRuA2FlbQIxMABwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp6xIPPOsfm6i0AQtQ5rTKLrXwBtMQx2qGYC1DlQ1yOcawV1Hwcx6bZPf2cl3_aem_QymOydWmL-_mWqjBycwhnQ) 
 
+
+==========================================================================================
+
+# **Youtube Creator Tools** (Working when I was testing) (Free)
+
+1) https://creatormix.com/ (Free / Background Music)
