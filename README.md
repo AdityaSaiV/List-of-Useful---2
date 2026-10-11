@@ -11,6 +11,9 @@ Making a list for links and tools that maybe useful
 
 1) https://nosignups.net/  (No signups tool library)
 2) https://fmhy.net/ (Universe of opensource finds)
+3) https://tokenin.my.id/gratis (APIs Free Models)
+4) https://apivault.dev/ (ALL Free API access)
+5) https://getartcraft.com/ (Adobe OS ?) [YTBT]
 
 ==========================================================================================
 
@@ -31,4 +34,5 @@ https://zsky.ai/ (Google Login required / 720 P 7s / No Watermark video but ends
 # **AI Clipping** (Working when I was testing) (Free)
 
 1) https://www.choppr.pro/ (Fast / Login required / 150 creds bonus / No Watermark / with Subs )
+2) https://www.withmaestroai.com/ (software install / Fully Local and Opensource)
 
