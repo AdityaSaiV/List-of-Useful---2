@@ -16,6 +16,14 @@ Making a list for links and tools that maybe useful
 5) https://getartcraft.com/ (Adobe OS ?) [YTBT]
 6) https://github.com/Contrary7/SteamDaddy-Backup (Some steam tool ? Steamtools.net Alternative ?) [YTBT]
 7) https://github.com/AhmadHassan-BTed/Turnitout-Humanizer (AI plag remover) [YTBT]
+8) https://github.com/rohit267/net-merge (Internet Downloader but uses all your Wifi connections) [YTBT]
+9) https://github.com/Orange-3DV-Team/MoCha (Character replacement in Videos/ something like deepfak3) [YTBT]
+10) https://chums.club/#how (AI agent animation characters on smartwatch/ looks crazy) [YTBT]
+11) https://opentoonz.github.io/e/ (2D animation software from Ghibli) [YTBT]
+12) https://quiverlauncher.com/ (website for downloading games that are released on Github / Not sure completely) [YTBT]
+13) https://scskiller.com/ (Game shutter ki|ler/ might not be compatible for every game) [YTBT]
+14) https://arena.ai/text/direct?model_a=max (Free AI models at one chat/ looks sus but i'll try) [YTBT]
+15) https://gittrend.io/ (Great Sites to find cool github repos)
 
 ==========================================================================================
 
@@ -29,6 +37,7 @@ https://zsky.ai/ (Google Login required / 720 P 7s / No Watermark video but ends
 5) https://upsampler.com/free-video-generator-no-signup [Free tools](https://upsampler.com/free-tools) (No login / 480P 5s / No watermark / good generation)
 6) https://ai.byteplus.com/ark/region:ap-southeast-1/experience (Login required / Runs like AWS server billing / Not sure) [YTBT]
 7) https://vibes.ai/ (VPN with limited regions / Meta login required / Free & unlimited / Video & Image / Idk this doesn't work for me anymore) [YTBT]
+8) https://github.com/edenfunf/reelmimic (Vid Generator that mimics any video/ Workability unknown) [YTBT]
 
 
 ==========================================================================================
@@ -38,7 +47,16 @@ https://zsky.ai/ (Google Login required / 720 P 7s / No Watermark video but ends
 1) https://www.choppr.pro/ (Fast / Login required / 150 creds bonus / No Watermark / with Subs )
 2) https://www.withmaestroai.com/ (software install / Fully Local and Opensource)
 3) https://theharisai.com/omnitube/#requirements (software install / Fully Local and Opensource / 8gb VRAM) [https://theharisai.com/#products -> Creator Products]
-4) Clipping Opensource - Download Required - [Link](https://github.com/nittinbhagaaat/shorts?fbclid=PAT01DUAUsGPJleHRuA2FlbQIxMABwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp6xIPPOsfm6i0AQtQ5rTKLrXwBtMQx2qGYC1DlQ1yOcawV1Hwcx6bZPf2cl3_aem_QymOydWmL-_mWqjBycwhnQ) 
+4) Clipping Opensource - Download Required - [Link](https://github.com/nittinbhagaaat/shorts?fbclid=PAT01DUAUsGPJleHRuA2FlbQIxMABwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp6xIPPOsfm6i0AQtQ5rTKLrXwBtMQx2qGYC1DlQ1yOcawV1Hwcx6bZPf2cl3_aem_QymOydWmL-_mWqjBycwhnQ)
+5) https://speechma.com/ (not a clipping tool but a TTS model that voices in multiples regional languages)
+
+
+===========================================================================================
+
+# **Some Interesting finds** (Obviously free)
+
+1) https://chromewebstore.google.com/detail/peel/ilmilngppklfofihpcmodbdchkejkfeg?utm_source=ext_app_menu (Reverse engineer YT vids making)
+2) 
 
 
 ==========================================================================================
