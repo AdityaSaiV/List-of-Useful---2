@@ -25,6 +25,8 @@ Making a list for links and tools that maybe useful
 14) https://arena.ai/text/direct?model_a=max (Free AI models at one chat/ looks sus but i'll try) [YTBT]
 15) https://gittrend.io/ (Great Sites to find cool github repos)
 16) https://recordly.dev/ (Desktop screen recorder tool with cool features)
+17) https://github.com/Git-Agni/prod-FARM-IOS-Core (App to control all Iphones in browser) (Original physical iphones)
+18) https://github.com/Creatorberry/faceless (a plugin to claude for faceless video gen) [YTBT]
 
 ==========================================================================================
 
@@ -42,6 +44,8 @@ https://zsky.ai/ (Google Login required / 720 P 7s / No Watermark video but ends
 9) https://github.com/lcy362/agnes-video-generator (Good Local model but full capability unknown) [YTBT]
 10) https://github.com/kaomei/stickman-video-director/blob/main/README.en.md (Stickman video automation) [YTBT]
 11) https://github.com/hypit-ai/hypit (Cloning the videos with variations) (complex) [YTBT]
+12) https://github.com/Kablex/ComfyUI-Ref2VA-VSA (Need Insane VRAM to proceed but faster than other models) [YTBT]
+13) https://github.com/dramaclaw/dramaclaw (Some High level shi pipeline to create videos) [YTBT]
 
 
 ==========================================================================================
@@ -65,6 +69,11 @@ https://zsky.ai/ (Google Login required / 720 P 7s / No Watermark video but ends
 3) https://facecheck.id/ (searches accounts or online presence using photo) (Not good but good idea)
 4) https://freemodels.pro/ (Chat with free AI models / No signup / Full of Ads)
 5) https://www.aixploria.com/en/free-ai/ (AI tools library)
+6) https://github.com/zenhosta/9drive (Manager to manage all google drives with free and simply adds up storage into one)
+7) https://cobalt.tools/ (Download anything from internet with link) [YTBT]
+8) https://getomniget.com/ (Paste any link and download content) [YTBT]
+9) https://filesync.app/ (Some file sharing site / Private P2P sharing)
+10) https://altersend.com/ (Same thing like Localsend) (Private P2P sharing)
 
 
 ==========================================================================================
@@ -75,5 +84,6 @@ https://zsky.ai/ (Google Login required / 720 P 7s / No Watermark video but ends
 2) https://mixkit.co/ (Free stock vids and more...)
 3) https://kokorottsai.com/ (Free TTS model)
 4) https://github.com/k2-fsa/OmniVoice#installation (Another Free TTS and voice clone model)
+5) https://github.com/jamiepine/voicebox (Voice cloning model)
 
 
