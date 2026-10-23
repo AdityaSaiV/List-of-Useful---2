@@ -74,6 +74,7 @@ https://zsky.ai/ (Google Login required / 720 P 7s / No Watermark video but ends
 8) https://getomniget.com/ (Paste any link and download content) [YTBT]
 9) https://filesync.app/ (Some file sharing site / Private P2P sharing)
 10) https://altersend.com/ (Same thing like Localsend) (Private P2P sharing)
+11) https://hydstartup.online/ (Hyderabad only startup job posting map) [YTBT]
 
 
 ==========================================================================================
