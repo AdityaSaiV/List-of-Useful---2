@@ -14,7 +14,8 @@ Making a list for links and tools that maybe useful
 3) https://tokenin.my.id/gratis (APIs Free Models)
 4) https://apivault.dev/ (ALL Free API access)
 5) https://getartcraft.com/ (Adobe OS ?) [YTBT]
-6) https://github.com/Contrary7/SteamDaddy-Backup (Some steam tool ? Steamtools.net Alternative ?) [YTBT] 
+6) https://github.com/Contrary7/SteamDaddy-Backup (Some steam tool ? Steamtools.net Alternative ?) [YTBT]
+7) https://github.com/AhmadHassan-BTed/Turnitout-Humanizer (AI plag remover) [YTBT]
 
 ==========================================================================================
 
